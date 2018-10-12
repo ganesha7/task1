@@ -6,7 +6,7 @@
 {
     background-color:blue;
 	max-width: 100%; 
-	padding:14px;
+	padding:10px;
 }
 .header ul li
 {
@@ -28,7 +28,7 @@
 .link
 {
 	background-color: lightblue;
-	height:530px;
+	height:520px;
 	float:left;
 	width:30%;
 }
@@ -62,7 +62,7 @@ a.active
 	float:left;
 	background-color:lightgray;
 	width:70%;
-	height:530px;
+	height:520px;
 	overflow-y: scroll;
 }
 
@@ -125,10 +125,4 @@ a.active
     background-color: blue;
     color:white;
     text-align: center;
-    border-bottom: 4px solid black;
-
 }
-
-
-
-
