@@ -33,6 +33,12 @@
 	float:left;
 	width:30%;
 }
+.link  a{
+	text-decoration: none;
+	color: black;
+	font-size: 38px;
+}
+
 .link li:hover
 {
    background-color:blue;
@@ -42,14 +48,10 @@
    border-left: solid black;
    color:white;
 } 
-.link a{
-	text-decoration: none;
-	color: black;
-	font-size: 38px;
-}
+
 li.active{
 	color: white;
-	 background-color:blue;
+   background-color:blue;
    border-top:solid black;
    border-right:solid black;
    border-bottom:solid black;
@@ -67,14 +69,17 @@ a.active
 	height:520px;
 }
 .box h2{
-	margin-top: 100px;
-	margin-bottom: 40px;
+	margin-top: 60px;
+	margin-bottom: 10px;
 	margin-left: 70px; 
 }
 .box p{
+	text-align: justify;
 	font-size: 20px;
     margin-left: 70px;
-    margin-right: 40px;
+    margin-right: 70px;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
 .box span{
 	color:blue;

@@ -70,7 +70,7 @@ a.active
 .box input[type=text] {
     width: 50%;
     background-color: lightblue;
-    padding: 18px 25px;
+    padding: 16px 25px;
     margin: 20px 80px;
     border: 2px solid gray;
     border-bottom:4px solid black;
@@ -84,8 +84,8 @@ a.active
     font-size:20px;
     }
 .box h2{
+  text-align: center;
   margin-top:70px;
-  margin-left:80px;
   margin-bottom: 80px;
   }
 
